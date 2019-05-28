@@ -1,8 +1,4 @@
 # Atividade Cifra de Hill
 ## Segurança de Dados
 
-Equipe :
-
-  @Raul-Coelho
-  @romuloqaz
-  @lucasgf07
+# Equipe : Raul Coelho , Romulo Pereira, Lucas Garrido
